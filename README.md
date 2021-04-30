@@ -5,7 +5,7 @@
 
 - 👨🏻‍🏫 I’m currently learning **AngularJS and Python**
 
-- 📫 How to reach me **anthony.lorendeaux19@gmail.com**
+- 📫 How to reach me **anthony.lorendeaux@icloud.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
