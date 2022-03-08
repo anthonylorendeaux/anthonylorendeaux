@@ -6,7 +6,3 @@
 - 👨🏻‍🏫 I’m currently learning **VueJS and Python**
 
 - 📫 How to reach me **anthony.lorendeaux@icloud.com**
-
-<div align="center">   
-    <img src='svg.svg' width='500'/>
-</div>
