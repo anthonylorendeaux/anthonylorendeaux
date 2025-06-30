@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">I am a student in engineering school in France.</h3>
+<h3 align="center">I am a freelance software engineer based in France.</h3>
 
 - ⚙ I’m currently working on **Nuxt3 projects**
 
-- 👨🏻‍🏫 I’m currently learning **Vuejs**
+- 👨🏻‍🏫 I’m currently learning **Vue & Angular**
 
-- 📫 How to reach me **anthony.lorendeaux@icloud.com**
+- 📫 How to reach me **anthony.lorendeaux19@gmail.com**
