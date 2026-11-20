@@ -37,19 +37,16 @@ Both tracks feed each other: enterprise pragmatism keeps my side projects realis
 
 ### Personal note taking application
 Minimal note-taking app, fast UX, tested end to end.
-`Nuxt · TypeScript · Vitest · GitHub Actions · Vercel`
 [Live](https://notes-app.anthony-lorendeaux.com/)
 
 ### Recipe application
 Recipe keeper for everyday cooking, with a hungry developer as product owner.
-`Nuxt · TypeScript · Vitest · GitHub Actions · Vercel`
 [Live](https://recette-app.anthony-lorendeaux.com/)
 
 <!-- Source links intentionally omitted for these two apps: their repositories are private. -->
 
 ### Portfolio
 My home base on the web: selected work, from showcase sites, plus the projects I ship for fun.
-`Nuxt 3 · TypeScript · Vercel`
 [Live](https://anthony-lorendeaux.com/) | [Source](https://github.com/anthonylorendeaux/portofolio)
 
 ## Currently working on
